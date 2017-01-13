@@ -55,7 +55,6 @@ for file in scannedfiles():
         if filemoved == True:
             break
 
+f.close()
 
 
-
-dt.datetime.now().isoformat()
